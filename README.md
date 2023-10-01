@@ -10,6 +10,8 @@ The next significant phase of the project involved constructing a decision tree 
 * <b>Interpretability</b>: Decision tree models offer the advantage of interpretability, allowing us to understand the features and criteria used by the model to make classification decisions.
 
 ## Results and Implications:
+![conf_matrix](https://github.com/akzmuk/Mushrooms-analysis/assets/113342466/c7b2fd79-3005-442c-a378-a5d4e5b28eaf)
+
 The project culminated in a highly accurate decision tree model with an evaluation score of 1.00, demonstrating its effectiveness in classifying mushrooms as edible or poisonous. This outcome has significant implications for mushroom enthusiasts, as it provides a reliable tool for identifying safe and unsafe mushrooms based on easily observable features.
 Overall, this project showcases the power of exploratory data analysis and machine learning in solving practical problems, particularly in the domain of mushroom classification. The combination of data visualization, feature engineering, and model building has resulted in a robust solution that enhances mushroom safety and promotes responsible foraging practices.
 
