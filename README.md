@@ -1,4 +1,7 @@
 # 🍄Mushrooms-analysis🍄
+
+![jesse-bauer-7w4lNt7lJb4-unsplash](https://github.com/akzmuk/Mushrooms-analysis/assets/113342466/b88ae8e2-b627-4645-8937-8138466e86ae)
+
 ## Overview
 In this project, I embarked on a comprehensive analysis of mushroom data, focusing on exploratory data analysis (EDA) and building a decision tree model to classify mushrooms as either edible or poisonous. The project's primary objective was to gain insights into the dataset's characteristics, establish patterns, and create a robust classification model with a high evaluation score of 1.00.
 
