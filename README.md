@@ -1,5 +1,5 @@
-# Mushrooms-analysis
-
+# 🍄Mushrooms-analysis🍄
+## Overview
 In this project, I embarked on a comprehensive analysis of mushroom data, focusing on exploratory data analysis (EDA) and building a decision tree model to classify mushrooms as either edible or poisonous. The project's primary objective was to gain insights into the dataset's characteristics, establish patterns, and create a robust classification model with a high evaluation score of 1.00.
 
 The project commenced with a thorough exploration of the mushroom dataset. EDA is a crucial step in understanding the underlying structure and attributes of the data. Various informative plots and visualizations were created to visualize the distribution of mushroom features.
